@@ -1,6 +1,15 @@
-# 👋 Hi, I'm Nayandeep Gupta
+<h1 align="center">Hi 👋, I'm Nayandeep Gupta </h1>
+<h3 align="center">🚀 Data Analyst | AI Builder |Power_BI & Tableau Developer | MySQL | Python Enthusiast</h3>
+ 
+<p align="center">
+<a href="[Linkdin Profile link](https://www.linkedin.com/feed/)">
+<img src="https://img.shields.io/badge/LinkedIn-Nayandeep Gupta-blue?style=for-the-badge&logo=linkedin">
+</a>
+<img src="https://komarev.com/ghpvc/?username=ng936692-lang-08&style=for-the-badge" />
+</p>
+ 
 
-### 📊 Aspiring Data Analyst | Python | SQL | Excel | Power BI | Tableau
+
 
 Welcome to my GitHub profile!
 
